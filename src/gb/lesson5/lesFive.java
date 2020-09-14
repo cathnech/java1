@@ -1,5 +1,5 @@
 package gb.lesson5;
-//import java.util.AbstractCollection;
+
 public class lesFive
 {
 	static Employee[] employees = new Employee[5];
